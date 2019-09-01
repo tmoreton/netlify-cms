@@ -1,4 +1,6 @@
 {
+  "name": "tmoreton-netlify-cms",
+  "version": "0.0.1",
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "start": "run-s clean bootstrap build:esm develop",
